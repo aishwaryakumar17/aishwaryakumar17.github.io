@@ -8,14 +8,14 @@ gems: [jekyll-gist,jekyll-paginate]
 permalink:        pretty
 
 # Setup
-title:            Northwestern Digital Frameworks
+title:            Aishwarya's Amazing Aisle 
 tagline:          'Summer quarter 2016'
-description:      'A high level view of digital journalism practice, summer 2016 edition.'
+description:      'I am awesome and you know it.'
 url:              http://digitalframeworks.github.io
 baseurl:          /
 
 author:
-  name:           'David Eads'
+  name:           'Aishwarya Kumar'
   url:            https://twitter.com/eads
 
 paginate:         15
