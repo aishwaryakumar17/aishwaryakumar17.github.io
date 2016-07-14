@@ -1,15 +1,15 @@
 ---
 layout: post
 
-title: 2015 CTA rideship in Chicago.  
-description: This is a blog post explaining CTA rideship for the year of 2015.  
+title: 2015 CTA rideship in Chicago 
+description: This is a blog post explaining CTA rideship for the year of 2015  
 
 author: Aishwarya Kumar
 email: kumar.aishwarya2@gmail.com
 twitter: kumaraishwarya
 ---
 
-## How many people rode the CTA stop closest to your house?
+## How many people rode the CTA stop closest to your house
 
 CTA rideship in 2015: 
 
