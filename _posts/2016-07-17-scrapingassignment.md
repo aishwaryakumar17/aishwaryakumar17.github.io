@@ -1,3 +1,4 @@
+---
 layout: post
 
 title: What makes news in which Chicago? neighborhood 
@@ -9,6 +10,10 @@ twitter: kumaraishwarya
 ---
 
 ## Scraping DNAinfo Chicago's website
+
+Link to the original data source: https://www.dnainfo.com/chicago/the-latest/page/1
+Link to Google spreadsheets: https://docs.google.com/spreadsheets/d/11ZPj1C5CYq40OQGL-IUVE-LEgtL0co0BkdjZCjAFlRA/edit#gid=2019034086
+
 
 I scraped the DNAinfo Chicago website. The aim of this is to find out what the news organization is covering under each beat. Or rather: what topics make news in each of the neighborhoods in Chicago. 
 
@@ -31,5 +36,7 @@ Wicker Park and Downtown had the most number of stories during that time period 
 The data also revealed that apart from tagging each of the stories under a neighborhood and a topic, they also make sure to include the main terms – the type of crime – in the headline so it grabs the attention of the people immediately.
 
 Based on the data, this website is easy to access and has clear subdivisions inside each neighborhood which makes looking through stories very easy. 
+
+Visualization techniques: Some of the visualization techniques you can use for this data are histogram -- with neighborhood on one axis and topic on the other. We could also scrape data everyday and use a chart (with a line going over the axis) to see if one particular topic -- say crime, has increased coverage in one particular neighborhood. 
 
 
