@@ -1,7 +1,15 @@
+---
+layout: post
 
+title: World soybeans production Vs. use 
+description: Running regression on World soybeans production Vs. Use
 
+author: Aishwarya Kumar
+email: kumar.aishwarya2@gmail.com
+twitter: kumaraishwarya
+---
 
-
+## Running regression on World soybeans production Vs. Use
 
 The data I chose to run regression on is world soybeans production and use. The data compared production with use. It was interesting to see an upward linear pattern in the data as the year progressed. The scatter points ended up being clumped to one area for a particular period of time (usually a couple years) before usage increases. 
 
