@@ -23,4 +23,4 @@ I used the custom option under charts to run a linear line across the scatter po
 
 At a certain point in the near future, the usage of soybeans across the world will tip over to the point where production will not be able to sustain the given usage. 
 
-This data is great for predicting the future – if I was working on a story about soybeans production, I could use this data to find out how long it would take for the produce to not be sufficient with regards to the usage. 
+This data is great for predicting the future – if I was working on a story about soybeans production, I could use this data to find out how long it would take for the produce to not be sufficient with regards to the usage. I calculated the intercept and forecast. My forecast says when production is at 387,, usage will go beyond the point where production can support it. But I am not entirely sure how this is possible considering I don't have the slope and the X intercept is not zero. Also, the intercept says -30.82, which seems somewhat unrealistic. I am sorry I don't have a better explanation for the forecast points. 
